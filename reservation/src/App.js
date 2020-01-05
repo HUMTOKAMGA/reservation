@@ -7,7 +7,6 @@ import SingleRooms from './pages/SingleRooms'
 import Error from './pages/Error'
 import Navbar from './components/Navbar'
 import {Route, Switch} from 'react-router-dom'
-import {Fabeer} from 'react-icons/fa'
 
 function App() {
   return (
